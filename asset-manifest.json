@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/E-commerce_WebApp/static/css/main.eb83c6a2.css",
+    "main.js": "/E-commerce_WebApp/static/js/main.15f8d28f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/E-commerce_WebApp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/HomePageImage.png": "/E-commerce_WebApp/static/media/HomePageImage.68a48466990862ccf4aa.png",
+    "static/media/AboutImage(2).jpg": "/E-commerce_WebApp/static/media/AboutImage(2).c0f1d719157b7b4c91e6.jpg",
+    "static/media/CollectionIntro.jpg": "/E-commerce_WebApp/static/media/CollectionIntro.7d64e3f466bb7a000dff.jpg",
+    "static/media/FormImage.jpg": "/E-commerce_WebApp/static/media/FormImage.f9b6e9920e7b9495a57b.jpg",
+    "static/media/AboutImage.jpg": "/E-commerce_WebApp/static/media/AboutImage.867ae35b5f791586041b.jpg",
+    "static/media/Satoshi-Regular.woff2": "/E-commerce_WebApp/static/media/Satoshi-Regular.e91661759ef755024952.woff2",
+    "static/media/ClashDisplay-Regular.woff2": "/E-commerce_WebApp/static/media/ClashDisplay-Regular.98b52bdf102085f28108.woff2",
+    "static/media/Delivery.svg": "/E-commerce_WebApp/static/media/Delivery.142b84d562a43a7e178483e90204e174.svg",
+    "static/media/Sprout.svg": "/E-commerce_WebApp/static/media/Sprout.ca1a3d78c5ce17fcbc252b9f5461b933.svg",
+    "static/media/Checkmark.svg": "/E-commerce_WebApp/static/media/Checkmark.79f29383e79b5d04512d082311a437d8.svg",
+    "static/media/search.svg": "/E-commerce_WebApp/static/media/search.018d669beaef615bd19fb7542a889683.svg",
+    "static/media/Shopping--cart.svg": "/E-commerce_WebApp/static/media/Shopping--cart.f8bc166cac7c5731b50e483026ec417e.svg",
+    "static/media/Checkmark--filled.svg": "/E-commerce_WebApp/static/media/Checkmark--filled.0fa5a13eacb4972054d6e80d98275434.svg",
+    "index.html": "/E-commerce_WebApp/index.html",
+    "static/media/close-btn.svg": "/E-commerce_WebApp/static/media/close-btn.db92a460271a76ff23d984e2f86ee480.svg",
+    "static/media/close-btnBlck.svg": "/E-commerce_WebApp/static/media/close-btnBlck.074fe81e145871854551c088053c5f1d.svg",
+    "static/media/Purchase.svg": "/E-commerce_WebApp/static/media/Purchase.ec06fb113abc57341a338adedaa0fd2d.svg",
+    "static/media/Caret--down.svg": "/E-commerce_WebApp/static/media/Caret--down.ff15c75f624f70c76aad90293a5ab01e.svg",
+    "main.eb83c6a2.css.map": "/E-commerce_WebApp/static/css/main.eb83c6a2.css.map",
+    "main.15f8d28f.js.map": "/E-commerce_WebApp/static/js/main.15f8d28f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/E-commerce_WebApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb83c6a2.css",
+    "static/js/main.15f8d28f.js"
+  ]
+}
