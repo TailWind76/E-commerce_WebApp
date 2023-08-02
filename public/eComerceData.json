@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "name": "Sleek Plant Pot",
+    "brand": "EnchantLiving",
+    "price": "100",
+    "category": "Plant pots",
+    "image": "/E-commerce_WebApp/images/CeramicPot.jpg",
+    "description": "A sleek and stylish plant pot that complements any modern interior.",
+    "dimensions": {
+      "height": "20 cm",
+      "width": "15 cm",
+      "depth": "15 cm"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Modern Hanging Planter",
+    "brand": "EnchantLiving",
+    "price": "120",
+    "category": "Plant pots",
+    "image": "/E-commerce_WebApp/images/CeramicPot.jpg",
+    "description": "A contemporary hanging planter that adds a touch of elegance to your space.",
+    "dimensions": {
+      "height": "25 cm",
+      "width": "20 cm",
+      "depth": "20 cm"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Elegant Ceramic Vase",
+    "brand": "LuminaHome",
+    "price": "100",
+    "category": "Ceramics",
+    "image": "/E-commerce_WebApp/images/SilkyVase.png",
+    "description": "An elegant ceramic vase that showcases the beauty of simplicity.",
+    "dimensions": {
+      "height": "30 cm",
+      "width": "10 cm",
+      "depth": "10 cm"
+    }
+  },
+  {
+    "id":4,
+    "name": "Decorative Ceramic Bowl",
+    "brand": "LuminaHome",
+    "price": "240",
+    "category": "Ceramics",
+    "image": "/E-commerce_WebApp/images/CeramicBowl.jpg",
+    "description": "A decorative ceramic bowl that adds artistic flair to your table setting.",
+    "dimensions": {
+      "height": "8 cm",
+      "width": "18 cm",
+      "depth": "18 cm"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Rustic Wooden Coffee Table",
+    "brand": "NatureHome",
+    "price": "250",
+    "category": "Tables",
+    "image": "/E-commerce_WebApp/images/table.jpg",
+    "description": "A rustic wooden coffee table that brings nature's warmth to your living room.",
+    "dimensions": {
+      "height": "40 cm",
+      "width": "80 cm",
+      "depth": "60 cm"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Modern Glass Side Table",
+    "brand": "EleganceCrafts",
+    "price": "90",
+    "category": "Tables",
+    "image": "/E-commerce_WebApp/images/glassTable.jpg",
+    "description": "A modern glass side table that exudes sophistication and functionality.",
+    "dimensions": {
+      "height": "50 cm",
+      "width": "40 cm",
+      "depth": "40 cm"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Dendy Chair",
+    "brand": "TranquilHaus",
+    "price": "100",
+    "category": "Chairs",
+    "image": "/E-commerce_WebApp/images/DandyChair.jpg",
+    "description": "A comfortable and stylish chair inspired by the timeless Dendy design.",
+    "dimensions": {
+      "height": "80 cm",
+      "width": "60 cm",
+      "depth": "50 cm"
+    }
+  },
+  {
+    "id": 8,
+    "name": "ErgoMax Armchair",
+    "brand": "EleganceCrafts",
+    "price": "350",
+    "category": "Chairs",
+    "image": "/E-commerce_WebApp/images/armchair.jpg",
+    "description": "An ergonomic armchair that provides exceptional support and comfort.",
+    "dimensions": {
+      "height": "100 cm",
+      "width": "75 cm",
+      "depth": "80 cm"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Porcelain Dinner Set",
+    "brand": "EnchantLiving",
+    "price": "270",
+    "category": "Crockery",
+    "image": "/E-commerce_WebApp/images/DinnerSet.jpg",
+    "description": "A complete porcelain dinner set for a delightful dining experience.",
+    "dimensions": {
+      "height": "6 cm",
+      "width": "25 cm",
+      "depth": "25 cm"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Stoneware Soup Bowl",
+    "brand": "TranquilHaus",
+    "price": "100",
+    "category": "Crockery",
+    "image": "/E-commerce_WebApp/images/CeramicBowl.jpg",
+    "description": "A stoneware soup bowl that elevates your soup-savoring moments.",
+    "dimensions": {
+      "height": "10 cm",
+      "width": "18 cm",
+      "depth": "18 cm"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Elegant Cutlery Set",
+    "brand": "TranquilHaus",
+    "price": "230",
+    "category": "Tableware",
+    "image": "/E-commerce_WebApp/images/CutlerySet.jpg",
+    "description": "An elegant cutlery set that enhances your dining table aesthetics.",
+    "dimensions": {
+      "height": "5 cm",
+      "width": "25 cm",
+      "depth": "15 cm"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Premium Glassware Set",
+    "brand": "TranquilHaus",
+    "price": "60",
+    "category": "Tableware",
+    "image": "/E-commerce_WebApp/images/Glasware.jpg",
+    "description": "A premium glassware set that elevates your beverage experience.",
+    "dimensions": {
+      "height": "15 cm",
+      "width": "8 cm",
+      "depth": "8 cm"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Stainless Steel Steak Knives",
+    "brand": "LuminaHome",
+    "price": "40",
+    "category": "Cutlery",
+    "image": "/E-commerce_WebApp/images/kniveSet.jpg",
+    "description": "A set of high-quality stainless steel steak knives for your culinary needs.",
+    "dimensions": {
+      "height": "3 cm",
+      "width": "25 cm",
+      "depth": "2 cm"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Chef's Knife Set",
+    "brand": "LuminaHome",
+    "price": "500",
+    "category": "Cutlery",
+    "image": "/E-commerce_WebApp/images/kniveSet.jpg",
+    "description": "A professional chef's knife set that makes cooking a joy.",
+    "dimensions": {
+      "height": "5 cm",
+      "width": "30 cm",
+      "depth": "2 cm"
+    }
+  }
+]
