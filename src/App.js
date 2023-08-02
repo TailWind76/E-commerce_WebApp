@@ -1,6 +1,6 @@
 import './components/css/style.css';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import { Provider } from 'react-redux'; // Импортируем Provider из react-redux
+import { Provider } from 'react-redux'; 
 import store from './components/store';
 import Header from './components/header';
 import Homepage from './components/homepage';
