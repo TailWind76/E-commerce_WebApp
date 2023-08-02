@@ -7,7 +7,7 @@ function Suggesting() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const jsonURL = 'E-commerce_WebApp/eComerceData.json';
+      const jsonURL = '/E-commerce_WebApp/eComerceData.json';
 
       try {
         const response = await axios.get(jsonURL);

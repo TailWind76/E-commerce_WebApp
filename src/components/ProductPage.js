@@ -59,7 +59,7 @@ function ProductPage() {
     useEffect(() => {
       const fetchProductData = async () => {
         try {
-          const response = await axios.get('/eComerceData.json');
+          const response = await axios.get('/E-commerce_WebApp/eComerceData.json');
           const data = response.data;
   
           const foundProduct = data.find((product) => product.id === parseInt(id));

@@ -89,7 +89,7 @@ function ProductListings() {
 
     const fetchData = async () => {
       try {
-        const response = await axios.get('/eComerceData.json');
+        const response = await axios.get('/E-commerce_WebApp/eComerceData.json');
         setData(response.data);
       } catch (error) {
         console.error('Error code:', error);
