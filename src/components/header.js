@@ -23,19 +23,20 @@ const CloseMenu = ()=> {
   setCloseMenu(!closeMenu)
 }
 
-  useEffect(() => {
-    const fetchData = async () => {
-      const jsonURL = '/E-commerce_WebApp/eComerceData.json';
+useEffect(() => {
+  const fetchData = async () => {
+    const jsonURL = '/E-commerce_WebApp/eComerceData.json';
 
-      try {
-        const response = await axios.get(jsonURL);
-        setData(response.data);
-      } catch (error) {
-        console.error('Error fetching product data:', error);
-      }
-    };
-    fetchData();
-  }, []);
+    try {
+      const response = await axios.get(jsonURL);
+      setData(response.data); 
+    } catch (error) {
+      console.error('Error fetching product data:', error);
+    }
+  };
+  fetchData();
+}, []);
+
 
   const handleInputChange = (event) => {
     setSearchValue(event.target.value);
@@ -96,7 +97,7 @@ const CloseMenu = ()=> {
 
    
 
-      <Link to ='/'><h1 className="logo">Avion</h1></Link> 
+      <Link to ='/E-commerce_WebApp'><h1 className="logo">Avion</h1></Link> 
 
       <nav>
         <Link to="/products?category=Plant%20pots" className="nav-item">
